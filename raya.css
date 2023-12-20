@@ -905,7 +905,8 @@ footer #links li {
     }
     
     #list #last-of-list{
-        background-color: rgb(240, 248, 255);    color:rgb(59, 155, 177);
+        background-color: rgb(240, 248, 255);
+        color:rgb(59, 155, 177);
         border-radius:20px;
         padding: 15px;
     }
@@ -1050,7 +1051,7 @@ footer #links li {
 
 @media (max-width: 575.98px) {
     header {
-        background-color: rgb(73, 146, 162);
+        background-color: rgb(33, 152, 225);
     }
     
     #list {
@@ -1102,6 +1103,7 @@ footer #links li {
     #list #last-of-list:hover {
         background-color:rgb(220, 224, 227);
         color:rgb(59,155,177);
+        padding-inline: 50px;
     }
 
     #check:checked ~ label #btn{
@@ -1134,9 +1136,7 @@ footer #links li {
         text-align: center;
     }
 
-    header {
-        background-color: rgba(44, 141, 171, 0.653);
-    }
+   
 
     #check:checked ~ label #btn{
         left: 0;
