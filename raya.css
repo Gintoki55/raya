@@ -1043,15 +1043,10 @@ footer #links li {
 
 
 
-
-
-
-
-
-
 @media (max-width: 575.98px) {
     header {
-        background-color: rgb(33, 152, 225);
+        background-color: rgb(34, 152, 225);
+        
     }
     
     #list {
