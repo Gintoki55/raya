@@ -1051,7 +1051,6 @@ footer #links li {
 @media (max-width: 575.98px) {
     header {
         background-color: rgb(73, 146, 162);
-        backdrop-filter: blur(20px);
     }
     
     #list {
